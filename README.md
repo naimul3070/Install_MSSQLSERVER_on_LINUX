@@ -25,7 +25,8 @@
     sudo apt update
     sudo apt install mssql-server
     
-#### Run 'sudo /opt/mssql/bin/mssql-conf setup' to complete the setup of Microsoft SQL Server
+#### Run the command to complete the setup of Microsoft SQL Server
+    sudo /opt/mssql/bin/mssql-conf setup
     
 #### Enter your edition(1-8): 
     2
