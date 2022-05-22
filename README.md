@@ -23,7 +23,7 @@
 #### Step 4: Install MS SQL Server 2019 on Ubuntu 20.04/18.04/16.04 LTS, "Now run the following commands to install SQL Server"
 
     sudo apt update
-    sudo apt install mssql-server"
+    sudo apt install mssql-server
     
 #### Run 'sudo /opt/mssql/bin/mssql-conf setup' to complete the setup of Microsoft SQL Server
     
