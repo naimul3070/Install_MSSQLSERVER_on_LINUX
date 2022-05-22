@@ -1,4 +1,4 @@
-# Install_MSSQLSERVER_on_LINUX
+# Install_MSSQLSERVER_on_LINUX_Server 20.04,18.04,16.04
 
 #### Step 1: Update Ubuntu System
     sudo apt-get update
